@@ -1,0 +1,5 @@
+metric,value,interpretation
+Average placement readiness,36.4,Higher means the role has enough clean funnel signal to move toward shortlist or placement.
+Average fill risk,70.3,"Higher means aging, scarcity, poor conversion, or quality issues are likely to delay fill."
+Quality checks requiring review,153,Rows where source issues could distort reporting or recruiter action.
+Top role priority score,110.0,Composite decision score for this week's first operating review item.

@@ -1,0 +1,43 @@
+role_id,client_segment,role_family,city,work_structure,priority,open_days,target_submit_days,target_fill_days,pay_rate,bill_rate,skills_required,hiring_manager_response_rate,recruiter_owner
+REQ001,Healthcare network,BI Analyst,Columbus,Onsite,Critical,55,2,49,42,65.0,SQL; Power BI; Tableau; Data modeling,0.44,North desk
+REQ002,Industrial manufacturer,ERP Analyst,Dayton,Hybrid,Critical,23,3,49,79,121.0,SQL; Process mapping; Data validation; Excel,0.71,North desk
+REQ003,Insurance carrier,Cybersecurity Analyst,Cleveland,Onsite,High,51,5,28,47,76.0,SQL; Risk reporting; Python; Excel; Machine learning,0.6,Enterprise desk
+REQ004,B2B software firm,Finance Analyst,Indianapolis,Hybrid,Critical,25,2,42,68,96.0,Excel; SQL; Forecasting; Power BI,0.83,Enterprise desk
+REQ005,Energy utility,ERP Analyst,Louisville,Onsite,Critical,28,3,28,48,75.0,SQL; Process mapping; Data validation; Excel,0.61,Specialty desk
+REQ006,Hospitality group,Finance Analyst,Cincinnati,Onsite,Critical,65,2,35,51,79.0,Excel; SQL; Forecasting; Power BI,0.68,Central desk
+REQ007,Professional services firm,Finance Analyst,Columbus,Remote,High,42,2,35,74,114.0,Excel; SQL; Forecasting; Power BI; Cloud basics,0.82,Enterprise desk
+REQ008,Regional bank,Data Engineer,Dayton,Remote,Critical,47,5,49,70,111.0,SQL; Python; Cloud data; ETL; Stakeholder reporting,0.85,Specialty desk
+REQ009,Healthcare network,Cybersecurity Analyst,Cleveland,Hybrid,Critical,51,5,42,68,98.0,SQL; Risk reporting; Python; Excel,0.53,Central desk
+REQ010,Industrial manufacturer,Finance Analyst,Indianapolis,Remote,High,14,5,28,43,66.0,Excel; SQL; Forecasting; Power BI,0.61,Specialty desk
+REQ011,Insurance carrier,ERP Analyst,Louisville,Hybrid,Critical,21,4,42,41,63.0,SQL; Process mapping; Data validation; Excel,0.47,Specialty desk
+REQ012,B2B software firm,BI Analyst,Cincinnati,Remote,High,41,4,35,82,117.0,SQL; Power BI; Tableau; Data modeling,0.49,Central desk
+REQ013,Energy utility,Data Engineer,Columbus,Hybrid,Standard,8,4,35,65,90.0,SQL; Python; Cloud data; ETL,0.45,North desk
+REQ014,Hospitality group,Finance Analyst,Dayton,Remote,Standard,16,3,42,68,106.0,Excel; SQL; Forecasting; Power BI; Cloud basics,0.68,Specialty desk
+REQ015,Professional services firm,Cybersecurity Analyst,Cleveland,Hybrid,Standard,33,5,49,59,96.0,SQL; Risk reporting; Python; Excel,0.48,Central desk
+REQ016,Regional bank,Cybersecurity Analyst,Indianapolis,Hybrid,High,37,3,28,34,47.0,SQL; Risk reporting; Python; Excel,0.86,Enterprise desk
+REQ017,Healthcare network,Data Engineer,Louisville,Hybrid,High,43,5,35,47,71.0,SQL; Python; Cloud data; ETL,0.8,Specialty desk
+REQ018,Industrial manufacturer,BI Analyst,Cincinnati,Onsite,Critical,75,2,28,60,90.0,SQL; Power BI; Tableau; Data modeling,0.62,Enterprise desk
+REQ019,Insurance carrier,BI Analyst,Columbus,Hybrid,Critical,44,2,49,42,62.0,SQL; Power BI; Tableau; Data modeling; Machine learning,0.82,North desk
+REQ020,B2B software firm,Finance Analyst,Dayton,Remote,High,9,5,35,82,130.0,Excel; SQL; Forecasting; Power BI; Cloud basics,0.84,North desk
+REQ021,Energy utility,Cybersecurity Analyst,Cleveland,Onsite,High,57,5,35,63,91.0,SQL; Risk reporting; Python; Excel,0.51,Central desk
+REQ022,Hospitality group,Cybersecurity Analyst,Indianapolis,Hybrid,High,15,3,28,37,52.0,SQL; Risk reporting; Python; Excel,0.89,North desk
+REQ023,Professional services firm,Data Analyst,Louisville,Hybrid,Critical,28,3,28,49,72.0,SQL; Excel; Power BI; Python,0.72,Specialty desk
+REQ024,Regional bank,Cybersecurity Analyst,Cincinnati,Remote,High,48,5,35,47,72.0,SQL; Risk reporting; Python; Excel; Cloud basics,0.75,Enterprise desk
+REQ025,Healthcare network,Cybersecurity Analyst,Columbus,Onsite,High,17,2,35,73,118.0,SQL; Risk reporting; Python; Excel,0.67,Central desk
+REQ026,Industrial manufacturer,Cybersecurity Analyst,Dayton,Onsite,Standard,39,4,28,44,65.0,SQL; Risk reporting; Python; Excel,0.75,Enterprise desk
+REQ027,Insurance carrier,ERP Analyst,Cleveland,Onsite,Standard,25,3,42,40,62.0,SQL; Process mapping; Data validation; Excel; Cloud basics,0.52,Enterprise desk
+REQ028,B2B software firm,Finance Analyst,Indianapolis,Onsite,High,14,3,42,61,96.0,Excel; SQL; Forecasting; Power BI; Cloud basics,0.5,Specialty desk
+REQ029,Energy utility,ERP Analyst,Louisville,Onsite,High,9,4,35,78,125.0,SQL; Process mapping; Data validation; Excel,0.63,North desk
+REQ030,Hospitality group,Finance Analyst,Cincinnati,Remote,High,13,4,49,47,73.0,Excel; SQL; Forecasting; Power BI,0.9,Central desk
+REQ031,Professional services firm,Finance Analyst,Columbus,Remote,Standard,30,5,35,35,50.0,Excel; SQL; Forecasting; Power BI,0.55,North desk
+REQ032,Regional bank,Data Engineer,Dayton,Onsite,Standard,68,3,35,63,92.0,SQL; Python; Cloud data; ETL,0.43,Central desk
+REQ033,Healthcare network,Data Analyst,Cleveland,Remote,High,16,4,28,51,75.0,SQL; Excel; Power BI; Python,0.48,Enterprise desk
+REQ034,Industrial manufacturer,Data Engineer,Indianapolis,Onsite,High,41,4,49,72,107.0,SQL; Python; Cloud data; ETL,0.72,North desk
+REQ035,Insurance carrier,Finance Analyst,Louisville,Onsite,Standard,32,3,42,79,117.0,Excel; SQL; Forecasting; Power BI,0.63,Enterprise desk
+REQ036,B2B software firm,Cybersecurity Analyst,Cincinnati,Hybrid,High,23,4,49,53,80.0,SQL; Risk reporting; Python; Excel,0.76,Central desk
+REQ037,Energy utility,Finance Analyst,Columbus,Hybrid,High,56,2,42,45,69.0,Excel; SQL; Forecasting; Power BI; Stakeholder reporting,0.56,Specialty desk
+REQ038,Hospitality group,Data Analyst,Dayton,Hybrid,High,49,3,28,62,96.0,SQL; Excel; Power BI; Python,0.56,Enterprise desk
+REQ039,Professional services firm,ERP Analyst,Cleveland,Hybrid,Standard,38,3,49,48,76.0,SQL; Process mapping; Data validation; Excel; Machine learning,0.72,North desk
+REQ040,Regional bank,BI Analyst,Indianapolis,Hybrid,High,32,2,28,58,87.0,SQL; Power BI; Tableau; Data modeling; Stakeholder reporting,0.8,Central desk
+REQ041,Healthcare network,Data Analyst,Louisville,Onsite,Standard,67,5,42,49,78.0,SQL; Excel; Power BI; Python; Machine learning,0.89,Specialty desk
+REQ042,Industrial manufacturer,Cybersecurity Analyst,Cincinnati,Onsite,Standard,72,5,42,69,103.0,SQL; Risk reporting; Python; Excel; Cloud basics,0.79,Enterprise desk

@@ -1,0 +1,43 @@
+role_id,client_segment,role_family,city,work_structure,priority,open_days,submit_rate,interview_rate,offer_rate,placement_readiness_score,fill_risk_score,data_quality_score,expected_shortlist_days,placements,estimated_weekly_margin,recommendation,recruiter_owner,priority_score
+REQ018,Industrial manufacturer,BI Analyst,Cincinnati,Onsite,Critical,75,42.9,22.2,0.0,34.8,89.6,55.8,18,0,810.0,Clean source data before promising a new shortlist,Enterprise desk,110.0
+REQ006,Hospitality group,Finance Analyst,Cincinnati,Onsite,Critical,65,42.3,36.7,9.1,41.6,86.3,61.0,16.5,0,840.0,Clean source data before promising a new shortlist,Central desk,103.4
+REQ032,Regional bank,Data Engineer,Dayton,Onsite,Standard,68,33.3,0.0,0.0,19.1,94.1,26.8,18,0,232.0,Clean source data before promising a new shortlist,Central desk,92.1
+REQ001,Healthcare network,BI Analyst,Columbus,Onsite,Critical,55,33.3,12.5,0.0,28.0,82.9,58.4,14.1,0,552.0,Clean source data before promising a new shortlist,North desk,91.9
+REQ009,Healthcare network,Cybersecurity Analyst,Cleveland,Hybrid,Critical,51,42.3,31.8,0.0,29.7,81.0,21.4,16.1,0,660.0,Clean source data before promising a new shortlist,Central desk,90.1
+REQ021,Energy utility,Cybersecurity Analyst,Cleveland,Onsite,High,57,33.3,11.1,0.0,28.6,88.9,58.4,16.2,0,252.0,Clean source data before promising a new shortlist,Central desk,88.1
+REQ038,Hospitality group,Data Analyst,Dayton,Hybrid,High,49,34.5,27.6,0.0,37.4,79.7,79.2,15.4,0,986.0,Escalate aging role in the client review,Enterprise desk,87.0
+REQ042,Industrial manufacturer,Cybersecurity Analyst,Cincinnati,Onsite,Standard,72,50.0,10.0,0.0,35.8,84.1,55.6,15.8,0,340.0,Clean source data before promising a new shortlist,Enterprise desk,85.4
+REQ003,Insurance carrier,Cybersecurity Analyst,Cleveland,Onsite,High,51,40.0,20.0,0.0,33.2,87.6,55.6,16.8,0,290.0,Clean source data before promising a new shortlist,Enterprise desk,85.1
+REQ007,Professional services firm,Finance Analyst,Columbus,Remote,High,42,53.5,34.2,7.7,43.6,70.1,50.4,13.9,0,1520.0,Clean source data before promising a new shortlist,Enterprise desk,82.9
+REQ005,Energy utility,ERP Analyst,Louisville,Onsite,Critical,28,42.3,9.1,0.0,22.7,87.4,8.4,16.0,0,297.0,Clean source data before promising a new shortlist,Specialty desk,82.3
+REQ037,Energy utility,Finance Analyst,Columbus,Hybrid,High,56,40.7,27.0,0.0,37.9,72.8,74.0,13.7,0,888.0,Clean source data before promising a new shortlist,Specialty desk,81.4
+REQ041,Healthcare network,Data Analyst,Louisville,Onsite,Standard,67,56.7,29.4,0.0,43.7,77.3,55.6,15.0,0,493.0,Clean source data before promising a new shortlist,Specialty desk,79.1
+REQ023,Professional services firm,Data Analyst,Louisville,Hybrid,Critical,28,45.3,29.2,0.0,41.3,69.1,71.4,12.3,0,1104.0,Clean source data before promising a new shortlist,Specialty desk,76.3
+REQ034,Industrial manufacturer,Data Engineer,Indianapolis,Onsite,High,41,42.9,16.7,0.0,26.2,79.9,8.4,15.3,0,420.0,Clean source data before promising a new shortlist,North desk,75.7
+REQ008,Regional bank,Data Engineer,Dayton,Remote,Critical,47,47.8,18.2,0.0,41.4,69.4,74.0,11.9,0,451.0,Clean source data before promising a new shortlist,Specialty desk,74.0
+REQ012,B2B software firm,BI Analyst,Cincinnati,Remote,High,41,35.1,30.0,0.0,32.5,74.0,53.0,14.5,0,700.0,Clean source data before promising a new shortlist,Central desk,74.0
+REQ004,B2B software firm,Finance Analyst,Indianapolis,Hybrid,Critical,25,49.5,29.4,6.7,43.7,62.2,63.6,10.9,0,1428.0,Clean source data before promising a new shortlist,Enterprise desk,73.3
+REQ019,Insurance carrier,BI Analyst,Columbus,Hybrid,Critical,44,54.7,25.7,0.0,44.6,65.4,74.0,11.3,0,700.0,Clean source data before promising a new shortlist,North desk,72.7
+REQ017,Healthcare network,Data Engineer,Louisville,Hybrid,High,43,38.5,10.0,0.0,34.3,76.2,63.6,14.0,0,240.0,Clean source data before promising a new shortlist,Specialty desk,70.1
+REQ024,Regional bank,Cybersecurity Analyst,Cincinnati,Remote,High,48,44.8,23.1,0.0,42.4,71.6,84.4,13.1,0,325.0,Review client feedback and adjust candidate slate,Enterprise desk,68.7
+REQ026,Industrial manufacturer,Cybersecurity Analyst,Dayton,Onsite,Standard,39,41.2,35.7,0.0,36.1,78.9,37.2,16.0,0,294.0,Clean source data before promising a new shortlist,Enterprise desk,67.0
+REQ002,Industrial manufacturer,ERP Analyst,Dayton,Hybrid,Critical,23,38.1,29.2,0.0,37.9,62.6,63.6,11.0,0,1008.0,Clean source data before promising a new shortlist,North desk,66.6
+REQ016,Regional bank,Cybersecurity Analyst,Indianapolis,Hybrid,High,37,61.1,31.8,0.0,45.5,69.8,58.2,13.6,0,286.0,Clean source data before promising a new shortlist,Enterprise desk,62.1
+REQ040,Regional bank,BI Analyst,Indianapolis,Hybrid,High,32,45.5,35.0,0.0,44.3,67.0,74.0,12.7,0,580.0,Clean source data before promising a new shortlist,Central desk,61.9
+REQ020,B2B software firm,Finance Analyst,Dayton,Remote,High,9,55.0,38.6,17.6,50.4,49.5,68.6,9.0,2,2112.0,Clean source data before promising a new shortlist,North desk,58.9
+REQ035,Insurance carrier,Finance Analyst,Louisville,Onsite,Standard,32,43.2,21.1,0.0,36.1,65.8,63.4,11.9,0,722.0,Clean source data before promising a new shortlist,Enterprise desk,57.8
+REQ028,B2B software firm,Finance Analyst,Indianapolis,Onsite,High,14,35.7,24.0,0.0,30.4,64.9,47.8,11.4,0,875.0,Clean source data before promising a new shortlist,Specialty desk,57.4
+REQ011,Insurance carrier,ERP Analyst,Louisville,Hybrid,Critical,21,32.4,9.1,0.0,32.5,64.2,87.0,10.1,0,242.0,Review client feedback and adjust candidate slate,Specialty desk,55.9
+REQ039,Professional services firm,ERP Analyst,Cleveland,Hybrid,Standard,38,42.9,25.0,0.0,32.0,66.9,29.4,13.9,0,336.0,Clean source data before promising a new shortlist,North desk,55.4
+REQ010,Industrial manufacturer,Finance Analyst,Indianapolis,Remote,High,14,43.4,26.1,0.0,37.2,59.4,63.6,10.9,0,1058.0,Clean source data before promising a new shortlist,Specialty desk,54.7
+REQ031,Professional services firm,Finance Analyst,Columbus,Remote,Standard,30,39.2,19.1,0.0,35.0,63.5,71.4,12.1,0,705.0,Clean source data before promising a new shortlist,North desk,54.6
+REQ025,Healthcare network,Cybersecurity Analyst,Columbus,Onsite,High,17,47.4,27.8,0.0,39.9,61.4,66.2,10.5,0,810.0,Clean source data before promising a new shortlist,Central desk,54.1
+REQ033,Healthcare network,Data Analyst,Cleveland,Remote,High,16,35.5,21.2,0.0,34.6,61.2,76.6,10.8,0,792.0,Review client feedback and adjust candidate slate,Enterprise desk,53.3
+REQ015,Professional services firm,Cybersecurity Analyst,Cleveland,Hybrid,Standard,33,37.0,0.0,0.0,27.3,65.4,63.6,11.9,0,370.0,Clean source data before promising a new shortlist,Central desk,52.5
+REQ029,Energy utility,ERP Analyst,Louisville,Onsite,High,9,41.0,37.5,0.0,34.0,62.5,32.0,11.8,0,752.0,Clean source data before promising a new shortlist,North desk,51.3
+REQ030,Hospitality group,Finance Analyst,Cincinnati,Remote,High,13,55.6,35.0,7.1,41.5,56.4,29.4,11.2,0,1040.0,Clean source data before promising a new shortlist,Central desk,51.1
+REQ036,B2B software firm,Cybersecurity Analyst,Cincinnati,Hybrid,High,23,51.4,33.3,0.0,38.3,60.0,37.2,11.8,0,486.0,Clean source data before promising a new shortlist,Central desk,50.2
+REQ014,Hospitality group,Finance Analyst,Dayton,Remote,Standard,16,40.0,30.8,0.0,38.4,54.0,63.6,10.5,0,988.0,Clean source data before promising a new shortlist,Specialty desk,44.1
+REQ027,Insurance carrier,ERP Analyst,Cleveland,Onsite,Standard,25,33.3,20.0,0.0,37.5,60.2,94.8,10.0,0,330.0,Review client feedback and adjust candidate slate,Enterprise desk,43.8
+REQ022,Hospitality group,Cybersecurity Analyst,Indianapolis,Hybrid,High,15,50.0,31.6,0.0,45.8,55.9,74.0,10.1,0,285.0,Clean source data before promising a new shortlist,North desk,40.0
+REQ013,Energy utility,Data Engineer,Columbus,Hybrid,Standard,8,36.4,16.7,0.0,31.9,53.9,68.8,9.8,0,300.0,Clean source data before promising a new shortlist,North desk,30.6

@@ -1,0 +1,16 @@
+skill,open_role_count,demand_index,available_supply_index,median_pay_rate,market_pressure
+Cloud basics,7,70.8,90.2,63.0,Moderate
+Cloud data,5,45.8,43.2,63.0,High
+Data modeling,5,47.9,51.7,57.0,Moderate
+Data validation,6,59.6,50.0,56.0,High
+ETL,5,52.9,70.5,63.0,Moderate
+Excel,32,352.2,67.5,56.0,High
+Forecasting,11,127.9,48.0,59.0,High
+Machine learning,4,34.7,54.2,46.0,Moderate
+Power BI,20,160.1,36.8,57.0,High
+Process mapping,6,70.0,67.4,56.0,High
+Python,20,218.2,85.1,56.0,High
+Risk reporting,11,131.4,38.6,54.0,High
+SQL,42,369.4,71.0,57.0,High
+Stakeholder reporting,3,37.7,66.6,58.0,Moderate
+Tableau,5,48.5,49.9,57.0,Moderate

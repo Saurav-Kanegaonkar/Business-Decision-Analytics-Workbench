@@ -3,52 +3,137 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Business Decision Analytics Workbench</title>
+  <title>Talent Pipeline Decision Analytics Workbench</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#4f46e5;--bg:#f4f5ff">
-  <main class="shell">
-    <header class="hero">
-      <div>
-        <p class="eyebrow">Workbench / general business data analysis and decision support</p>
-        <h1>Business Decision Analytics Workbench</h1>
+<body>
+  <header class="app-header">
+    <div class="header-copy">
+      <p class="eyebrow">Data analyst portfolio artifact</p>
+      <h1>Talent Pipeline Decision Analytics Workbench</h1>
+      <p class="lede">A staffing analytics operating view for cleaning source data, ranking open role risk, and turning funnel signals into recruiter and client-ready recommendations.</p>
+    </div>
+    <section class="header-panel" aria-label="Top recommendation">
+      <span>Current decision</span>
+      <strong id="topDecision">Loading priority role</strong>
+      <p id="topRecommendation">Loading recommendation</p>
+    </section>
+  </header>
+
+  <nav class="surface-tabs" aria-label="Workbench surfaces">
+    <button class="tab-button active" type="button" data-view="overview">Overview</button>
+    <button class="tab-button" type="button" data-view="model">Model</button>
+    <button class="tab-button" type="button" data-view="quality">Quality</button>
+    <button class="tab-button" type="button" data-view="brief">Brief</button>
+  </nav>
+
+  <main>
+    <section id="overview" class="surface active" aria-label="Executive pipeline command center">
+      <div class="kpi-grid" id="kpiGrid"></div>
+      <div class="content-grid two-col">
+        <article class="panel wide">
+          <div class="section-heading">
+            <p class="eyebrow">Executive command center</p>
+            <h2>Role priority queue</h2>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Role</th>
+                  <th>Segment</th>
+                  <th>Priority</th>
+                  <th>Risk</th>
+                  <th>Readiness</th>
+                  <th>Next move</th>
+                </tr>
+              </thead>
+              <tbody id="priorityRows"></tbody>
+            </table>
+          </div>
+        </article>
+        <article class="panel">
+          <div class="section-heading">
+            <p class="eyebrow">Market pressure</p>
+            <h2>Skills to watch</h2>
+          </div>
+          <div id="skillBars" class="bar-list"></div>
+        </article>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy business decision segment-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
-    </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>business decision segments</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Semantic model</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>business decision segment</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Source validation</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Self-service readiness</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section id="model" class="surface" aria-label="Statistical scoring model">
+      <div class="content-grid model-layout">
+        <article class="panel">
+          <div class="section-heading">
+            <p class="eyebrow">Transparent scoring</p>
+            <h2>Model summary</h2>
+          </div>
+          <div id="modelSummary" class="metric-list"></div>
+        </article>
+        <article class="panel wide">
+          <div class="section-heading">
+            <p class="eyebrow">Decision model output</p>
+            <h2>Risk drivers by role</h2>
+          </div>
+          <div id="modelCards" class="model-card-grid"></div>
+        </article>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value business decision segment segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section id="quality" class="surface" aria-label="Data cleaning and preprocessing console">
+      <div class="content-grid two-col">
+        <article class="panel wide">
+          <div class="section-heading">
+            <p class="eyebrow">Preprocessing controls</p>
+            <h2>Data quality queue</h2>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Role</th>
+                  <th>Check</th>
+                  <th>Issues</th>
+                  <th>Severity</th>
+                  <th>Owner</th>
+                </tr>
+              </thead>
+              <tbody id="qualityRows"></tbody>
+            </table>
+          </div>
+        </article>
+        <article class="panel">
+          <div class="section-heading">
+            <p class="eyebrow">Cleaning logic</p>
+            <h2>What gets fixed first</h2>
+          </div>
+          <div id="qualityNarrative" class="narrative-stack"></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="brief" class="surface" aria-label="Stakeholder-ready brief">
+      <div class="content-grid brief-layout">
+        <article class="panel brief-panel">
+          <div class="section-heading">
+            <p class="eyebrow">Non-technical readout</p>
+            <h2>Weekly stakeholder brief</h2>
+          </div>
+          <div id="briefBlocks" class="brief-blocks"></div>
+        </article>
+        <article class="panel">
+          <div class="section-heading">
+            <p class="eyebrow">Action plan</p>
+            <h2>Owner queue</h2>
+          </div>
+          <div id="actionRows" class="action-stack"></div>
+        </article>
+      </div>
     </section>
   </main>
+
+  <script src="src/data.js"></script>
+  <script src="src/app.js"></script>
 </body>
 </html>

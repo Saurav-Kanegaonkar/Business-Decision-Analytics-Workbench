@@ -1,0 +1,253 @@
+check_id,role_id,check_name,records_tested,issue_count,severity,owner
+missing_pay_rate,REQ001,Missing pay or bill rate,28,2,Watch,North desk
+stale_status,REQ001,Open status not refreshed,28,1,Pass,North desk
+duplicate_candidate,REQ001,Duplicate candidate identifier,28,1,Pass,North desk
+location_mismatch,REQ001,Location or work structure mismatch,28,4,Watch,North desk
+skill_taxonomy_gap,REQ001,Skill taxonomy not standardized,28,4,Watch,North desk
+stage_backfill,REQ001,Late stage history backfill,28,4,Watch,North desk
+missing_pay_rate,REQ002,Missing pay or bill rate,47,1,Pass,North desk
+stale_status,REQ002,Open status not refreshed,47,0,Pass,North desk
+duplicate_candidate,REQ002,Duplicate candidate identifier,47,3,Watch,North desk
+location_mismatch,REQ002,Location or work structure mismatch,47,3,Watch,North desk
+skill_taxonomy_gap,REQ002,Skill taxonomy not standardized,47,3,Watch,North desk
+stage_backfill,REQ002,Late stage history backfill,47,4,Watch,North desk
+missing_pay_rate,REQ003,Missing pay or bill rate,42,1,Pass,Enterprise desk
+stale_status,REQ003,Open status not refreshed,42,0,Pass,Enterprise desk
+duplicate_candidate,REQ003,Duplicate candidate identifier,42,0,Pass,Enterprise desk
+location_mismatch,REQ003,Location or work structure mismatch,42,4,Watch,Enterprise desk
+skill_taxonomy_gap,REQ003,Skill taxonomy not standardized,42,5,Fail,Enterprise desk
+stage_backfill,REQ003,Late stage history backfill,42,4,Watch,Enterprise desk
+missing_pay_rate,REQ004,Missing pay or bill rate,32,4,Watch,Enterprise desk
+stale_status,REQ004,Open status not refreshed,32,0,Pass,Enterprise desk
+duplicate_candidate,REQ004,Duplicate candidate identifier,32,2,Watch,Enterprise desk
+location_mismatch,REQ004,Location or work structure mismatch,32,4,Watch,Enterprise desk
+skill_taxonomy_gap,REQ004,Skill taxonomy not standardized,32,2,Watch,Enterprise desk
+stage_backfill,REQ004,Late stage history backfill,32,2,Watch,Enterprise desk
+missing_pay_rate,REQ005,Missing pay or bill rate,50,8,Fail,Specialty desk
+stale_status,REQ005,Open status not refreshed,50,0,Pass,Specialty desk
+duplicate_candidate,REQ005,Duplicate candidate identifier,50,3,Watch,Specialty desk
+location_mismatch,REQ005,Location or work structure mismatch,50,5,Fail,Specialty desk
+skill_taxonomy_gap,REQ005,Skill taxonomy not standardized,50,8,Fail,Specialty desk
+stage_backfill,REQ005,Late stage history backfill,50,2,Watch,Specialty desk
+missing_pay_rate,REQ006,Missing pay or bill rate,31,4,Watch,Central desk
+stale_status,REQ006,Open status not refreshed,31,0,Pass,Central desk
+duplicate_candidate,REQ006,Duplicate candidate identifier,31,3,Watch,Central desk
+location_mismatch,REQ006,Location or work structure mismatch,31,3,Watch,Central desk
+skill_taxonomy_gap,REQ006,Skill taxonomy not standardized,31,4,Watch,Central desk
+stage_backfill,REQ006,Late stage history backfill,31,1,Pass,Central desk
+missing_pay_rate,REQ007,Missing pay or bill rate,37,8,Fail,Enterprise desk
+stale_status,REQ007,Open status not refreshed,37,0,Pass,Enterprise desk
+duplicate_candidate,REQ007,Duplicate candidate identifier,37,2,Watch,Enterprise desk
+location_mismatch,REQ007,Location or work structure mismatch,37,2,Watch,Enterprise desk
+skill_taxonomy_gap,REQ007,Skill taxonomy not standardized,37,0,Pass,Enterprise desk
+stage_backfill,REQ007,Late stage history backfill,37,4,Watch,Enterprise desk
+missing_pay_rate,REQ008,Missing pay or bill rate,27,2,Watch,Specialty desk
+stale_status,REQ008,Open status not refreshed,27,0,Pass,Specialty desk
+duplicate_candidate,REQ008,Duplicate candidate identifier,27,2,Watch,Specialty desk
+location_mismatch,REQ008,Location or work structure mismatch,27,2,Watch,Specialty desk
+skill_taxonomy_gap,REQ008,Skill taxonomy not standardized,27,2,Watch,Specialty desk
+stage_backfill,REQ008,Late stage history backfill,27,2,Watch,Specialty desk
+missing_pay_rate,REQ009,Missing pay or bill rate,49,5,Fail,Central desk
+stale_status,REQ009,Open status not refreshed,49,1,Pass,Central desk
+duplicate_candidate,REQ009,Duplicate candidate identifier,49,5,Fail,Central desk
+location_mismatch,REQ009,Location or work structure mismatch,49,1,Pass,Central desk
+skill_taxonomy_gap,REQ009,Skill taxonomy not standardized,49,7,Fail,Central desk
+stage_backfill,REQ009,Late stage history backfill,49,2,Watch,Central desk
+missing_pay_rate,REQ010,Missing pay or bill rate,34,4,Watch,Specialty desk
+stale_status,REQ010,Open status not refreshed,34,0,Pass,Specialty desk
+duplicate_candidate,REQ010,Duplicate candidate identifier,34,1,Pass,Specialty desk
+location_mismatch,REQ010,Location or work structure mismatch,34,2,Watch,Specialty desk
+skill_taxonomy_gap,REQ010,Skill taxonomy not standardized,34,4,Watch,Specialty desk
+stage_backfill,REQ010,Late stage history backfill,34,3,Watch,Specialty desk
+missing_pay_rate,REQ011,Missing pay or bill rate,32,4,Watch,Specialty desk
+stale_status,REQ011,Open status not refreshed,32,0,Pass,Specialty desk
+duplicate_candidate,REQ011,Duplicate candidate identifier,32,0,Pass,Specialty desk
+location_mismatch,REQ011,Location or work structure mismatch,32,0,Pass,Specialty desk
+skill_taxonomy_gap,REQ011,Skill taxonomy not standardized,32,1,Pass,Specialty desk
+stage_backfill,REQ011,Late stage history backfill,32,0,Pass,Specialty desk
+missing_pay_rate,REQ012,Missing pay or bill rate,48,2,Watch,Central desk
+stale_status,REQ012,Open status not refreshed,48,1,Pass,Central desk
+duplicate_candidate,REQ012,Duplicate candidate identifier,48,5,Fail,Central desk
+location_mismatch,REQ012,Location or work structure mismatch,48,3,Watch,Central desk
+skill_taxonomy_gap,REQ012,Skill taxonomy not standardized,48,1,Pass,Central desk
+stage_backfill,REQ012,Late stage history backfill,48,3,Watch,Central desk
+missing_pay_rate,REQ013,Missing pay or bill rate,31,3,Watch,North desk
+stale_status,REQ013,Open status not refreshed,31,0,Pass,North desk
+duplicate_candidate,REQ013,Duplicate candidate identifier,31,1,Pass,North desk
+location_mismatch,REQ013,Location or work structure mismatch,31,2,Watch,North desk
+skill_taxonomy_gap,REQ013,Skill taxonomy not standardized,31,3,Watch,North desk
+stage_backfill,REQ013,Late stage history backfill,31,3,Watch,North desk
+missing_pay_rate,REQ014,Missing pay or bill rate,46,3,Watch,Specialty desk
+stale_status,REQ014,Open status not refreshed,46,0,Pass,Specialty desk
+duplicate_candidate,REQ014,Duplicate candidate identifier,46,1,Pass,Specialty desk
+location_mismatch,REQ014,Location or work structure mismatch,46,2,Watch,Specialty desk
+skill_taxonomy_gap,REQ014,Skill taxonomy not standardized,46,4,Watch,Specialty desk
+stage_backfill,REQ014,Late stage history backfill,46,4,Watch,Specialty desk
+missing_pay_rate,REQ015,Missing pay or bill rate,52,2,Watch,Central desk
+stale_status,REQ015,Open status not refreshed,52,0,Pass,Central desk
+duplicate_candidate,REQ015,Duplicate candidate identifier,52,2,Watch,Central desk
+location_mismatch,REQ015,Location or work structure mismatch,52,2,Watch,Central desk
+skill_taxonomy_gap,REQ015,Skill taxonomy not standardized,52,4,Watch,Central desk
+stage_backfill,REQ015,Late stage history backfill,52,4,Watch,Central desk
+missing_pay_rate,REQ016,Missing pay or bill rate,54,1,Pass,Enterprise desk
+stale_status,REQ016,Open status not refreshed,54,1,Pass,Enterprise desk
+duplicate_candidate,REQ016,Duplicate candidate identifier,54,2,Watch,Enterprise desk
+location_mismatch,REQ016,Location or work structure mismatch,54,5,Fail,Enterprise desk
+skill_taxonomy_gap,REQ016,Skill taxonomy not standardized,54,4,Watch,Enterprise desk
+stage_backfill,REQ016,Late stage history backfill,54,0,Pass,Enterprise desk
+missing_pay_rate,REQ017,Missing pay or bill rate,54,3,Watch,Specialty desk
+stale_status,REQ017,Open status not refreshed,54,1,Pass,Specialty desk
+duplicate_candidate,REQ017,Duplicate candidate identifier,54,1,Pass,Specialty desk
+location_mismatch,REQ017,Location or work structure mismatch,54,2,Watch,Specialty desk
+skill_taxonomy_gap,REQ017,Skill taxonomy not standardized,54,4,Watch,Specialty desk
+stage_backfill,REQ017,Late stage history backfill,54,3,Watch,Specialty desk
+missing_pay_rate,REQ018,Missing pay or bill rate,46,4,Watch,Enterprise desk
+stale_status,REQ018,Open status not refreshed,46,0,Pass,Enterprise desk
+duplicate_candidate,REQ018,Duplicate candidate identifier,46,4,Watch,Enterprise desk
+location_mismatch,REQ018,Location or work structure mismatch,46,2,Watch,Enterprise desk
+skill_taxonomy_gap,REQ018,Skill taxonomy not standardized,46,3,Watch,Enterprise desk
+stage_backfill,REQ018,Late stage history backfill,46,4,Watch,Enterprise desk
+missing_pay_rate,REQ019,Missing pay or bill rate,30,3,Watch,North desk
+stale_status,REQ019,Open status not refreshed,30,0,Pass,North desk
+duplicate_candidate,REQ019,Duplicate candidate identifier,30,3,Watch,North desk
+location_mismatch,REQ019,Location or work structure mismatch,30,1,Pass,North desk
+skill_taxonomy_gap,REQ019,Skill taxonomy not standardized,30,3,Watch,North desk
+stage_backfill,REQ019,Late stage history backfill,30,0,Pass,North desk
+missing_pay_rate,REQ020,Missing pay or bill rate,39,3,Watch,North desk
+stale_status,REQ020,Open status not refreshed,39,0,Pass,North desk
+duplicate_candidate,REQ020,Duplicate candidate identifier,39,1,Pass,North desk
+location_mismatch,REQ020,Location or work structure mismatch,39,0,Pass,North desk
+skill_taxonomy_gap,REQ020,Skill taxonomy not standardized,39,5,Fail,North desk
+stage_backfill,REQ020,Late stage history backfill,39,0,Pass,North desk
+missing_pay_rate,REQ021,Missing pay or bill rate,42,3,Watch,Central desk
+stale_status,REQ021,Open status not refreshed,42,1,Pass,Central desk
+duplicate_candidate,REQ021,Duplicate candidate identifier,42,3,Watch,Central desk
+location_mismatch,REQ021,Location or work structure mismatch,42,3,Watch,Central desk
+skill_taxonomy_gap,REQ021,Skill taxonomy not standardized,42,3,Watch,Central desk
+stage_backfill,REQ021,Late stage history backfill,42,3,Watch,Central desk
+missing_pay_rate,REQ022,Missing pay or bill rate,45,2,Watch,North desk
+stale_status,REQ022,Open status not refreshed,45,0,Pass,North desk
+duplicate_candidate,REQ022,Duplicate candidate identifier,45,2,Watch,North desk
+location_mismatch,REQ022,Location or work structure mismatch,45,0,Pass,North desk
+skill_taxonomy_gap,REQ022,Skill taxonomy not standardized,45,3,Watch,North desk
+stage_backfill,REQ022,Late stage history backfill,45,3,Watch,North desk
+missing_pay_rate,REQ023,Missing pay or bill rate,27,4,Watch,Specialty desk
+stale_status,REQ023,Open status not refreshed,27,0,Pass,Specialty desk
+duplicate_candidate,REQ023,Duplicate candidate identifier,27,2,Watch,Specialty desk
+location_mismatch,REQ023,Location or work structure mismatch,27,2,Watch,Specialty desk
+skill_taxonomy_gap,REQ023,Skill taxonomy not standardized,27,1,Pass,Specialty desk
+stage_backfill,REQ023,Late stage history backfill,27,2,Watch,Specialty desk
+missing_pay_rate,REQ024,Missing pay or bill rate,26,2,Watch,Enterprise desk
+stale_status,REQ024,Open status not refreshed,26,1,Pass,Enterprise desk
+duplicate_candidate,REQ024,Duplicate candidate identifier,26,1,Pass,Enterprise desk
+location_mismatch,REQ024,Location or work structure mismatch,26,1,Pass,Enterprise desk
+skill_taxonomy_gap,REQ024,Skill taxonomy not standardized,26,0,Pass,Enterprise desk
+stage_backfill,REQ024,Late stage history backfill,26,1,Pass,Enterprise desk
+missing_pay_rate,REQ025,Missing pay or bill rate,37,4,Watch,Central desk
+stale_status,REQ025,Open status not refreshed,37,0,Pass,Central desk
+duplicate_candidate,REQ025,Duplicate candidate identifier,37,1,Pass,Central desk
+location_mismatch,REQ025,Location or work structure mismatch,37,4,Watch,Central desk
+skill_taxonomy_gap,REQ025,Skill taxonomy not standardized,37,1,Pass,Central desk
+stage_backfill,REQ025,Late stage history backfill,37,3,Watch,Central desk
+missing_pay_rate,REQ026,Missing pay or bill rate,42,7,Fail,Enterprise desk
+stale_status,REQ026,Open status not refreshed,42,1,Pass,Enterprise desk
+duplicate_candidate,REQ026,Duplicate candidate identifier,42,1,Pass,Enterprise desk
+location_mismatch,REQ026,Location or work structure mismatch,42,3,Watch,Enterprise desk
+skill_taxonomy_gap,REQ026,Skill taxonomy not standardized,42,5,Fail,Enterprise desk
+stage_backfill,REQ026,Late stage history backfill,42,1,Pass,Enterprise desk
+missing_pay_rate,REQ027,Missing pay or bill rate,33,0,Pass,Enterprise desk
+stale_status,REQ027,Open status not refreshed,33,0,Pass,Enterprise desk
+duplicate_candidate,REQ027,Duplicate candidate identifier,33,0,Pass,Enterprise desk
+location_mismatch,REQ027,Location or work structure mismatch,33,0,Pass,Enterprise desk
+skill_taxonomy_gap,REQ027,Skill taxonomy not standardized,33,1,Pass,Enterprise desk
+stage_backfill,REQ027,Late stage history backfill,33,1,Pass,Enterprise desk
+missing_pay_rate,REQ028,Missing pay or bill rate,46,3,Watch,Specialty desk
+stale_status,REQ028,Open status not refreshed,46,0,Pass,Specialty desk
+duplicate_candidate,REQ028,Duplicate candidate identifier,46,4,Watch,Specialty desk
+location_mismatch,REQ028,Location or work structure mismatch,46,3,Watch,Specialty desk
+skill_taxonomy_gap,REQ028,Skill taxonomy not standardized,46,6,Fail,Specialty desk
+stage_backfill,REQ028,Late stage history backfill,46,1,Pass,Specialty desk
+missing_pay_rate,REQ029,Missing pay or bill rate,54,4,Watch,North desk
+stale_status,REQ029,Open status not refreshed,54,0,Pass,North desk
+duplicate_candidate,REQ029,Duplicate candidate identifier,54,2,Watch,North desk
+location_mismatch,REQ029,Location or work structure mismatch,54,5,Fail,North desk
+skill_taxonomy_gap,REQ029,Skill taxonomy not standardized,54,5,Fail,North desk
+stage_backfill,REQ029,Late stage history backfill,54,4,Watch,North desk
+missing_pay_rate,REQ030,Missing pay or bill rate,50,3,Watch,Central desk
+stale_status,REQ030,Open status not refreshed,50,0,Pass,Central desk
+duplicate_candidate,REQ030,Duplicate candidate identifier,50,5,Fail,Central desk
+location_mismatch,REQ030,Location or work structure mismatch,50,4,Watch,Central desk
+skill_taxonomy_gap,REQ030,Skill taxonomy not standardized,50,7,Fail,Central desk
+stage_backfill,REQ030,Late stage history backfill,50,2,Watch,Central desk
+missing_pay_rate,REQ031,Missing pay or bill rate,42,3,Watch,North desk
+stale_status,REQ031,Open status not refreshed,42,0,Pass,North desk
+duplicate_candidate,REQ031,Duplicate candidate identifier,42,2,Watch,North desk
+location_mismatch,REQ031,Location or work structure mismatch,42,2,Watch,North desk
+skill_taxonomy_gap,REQ031,Skill taxonomy not standardized,42,2,Watch,North desk
+stage_backfill,REQ031,Late stage history backfill,42,2,Watch,North desk
+missing_pay_rate,REQ032,Missing pay or bill rate,38,3,Watch,Central desk
+stale_status,REQ032,Open status not refreshed,38,1,Pass,Central desk
+duplicate_candidate,REQ032,Duplicate candidate identifier,38,5,Fail,Central desk
+location_mismatch,REQ032,Location or work structure mismatch,38,7,Fail,Central desk
+skill_taxonomy_gap,REQ032,Skill taxonomy not standardized,38,4,Watch,Central desk
+stage_backfill,REQ032,Late stage history backfill,38,2,Watch,Central desk
+missing_pay_rate,REQ033,Missing pay or bill rate,37,4,Watch,Enterprise desk
+stale_status,REQ033,Open status not refreshed,37,0,Pass,Enterprise desk
+duplicate_candidate,REQ033,Duplicate candidate identifier,37,1,Pass,Enterprise desk
+location_mismatch,REQ033,Location or work structure mismatch,37,3,Watch,Enterprise desk
+skill_taxonomy_gap,REQ033,Skill taxonomy not standardized,37,0,Pass,Enterprise desk
+stage_backfill,REQ033,Late stage history backfill,37,1,Pass,Enterprise desk
+missing_pay_rate,REQ034,Missing pay or bill rate,52,5,Fail,North desk
+stale_status,REQ034,Open status not refreshed,52,0,Pass,North desk
+duplicate_candidate,REQ034,Duplicate candidate identifier,52,4,Watch,North desk
+location_mismatch,REQ034,Location or work structure mismatch,52,10,Fail,North desk
+skill_taxonomy_gap,REQ034,Skill taxonomy not standardized,52,7,Fail,North desk
+stage_backfill,REQ034,Late stage history backfill,52,0,Pass,North desk
+missing_pay_rate,REQ035,Missing pay or bill rate,26,3,Watch,Enterprise desk
+stale_status,REQ035,Open status not refreshed,26,0,Pass,Enterprise desk
+duplicate_candidate,REQ035,Duplicate candidate identifier,26,1,Pass,Enterprise desk
+location_mismatch,REQ035,Location or work structure mismatch,26,6,Fail,Enterprise desk
+skill_taxonomy_gap,REQ035,Skill taxonomy not standardized,26,1,Pass,Enterprise desk
+stage_backfill,REQ035,Late stage history backfill,26,0,Pass,Enterprise desk
+missing_pay_rate,REQ036,Missing pay or bill rate,48,5,Fail,Central desk
+stale_status,REQ036,Open status not refreshed,48,0,Pass,Central desk
+duplicate_candidate,REQ036,Duplicate candidate identifier,48,4,Watch,Central desk
+location_mismatch,REQ036,Location or work structure mismatch,48,1,Pass,Central desk
+skill_taxonomy_gap,REQ036,Skill taxonomy not standardized,48,5,Fail,Central desk
+stage_backfill,REQ036,Late stage history backfill,48,3,Watch,Central desk
+missing_pay_rate,REQ037,Missing pay or bill rate,25,2,Watch,Specialty desk
+stale_status,REQ037,Open status not refreshed,25,1,Pass,Specialty desk
+duplicate_candidate,REQ037,Duplicate candidate identifier,25,0,Pass,Specialty desk
+location_mismatch,REQ037,Location or work structure mismatch,25,1,Pass,Specialty desk
+skill_taxonomy_gap,REQ037,Skill taxonomy not standardized,25,3,Watch,Specialty desk
+stage_backfill,REQ037,Late stage history backfill,25,3,Watch,Specialty desk
+missing_pay_rate,REQ038,Missing pay or bill rate,31,3,Watch,Enterprise desk
+stale_status,REQ038,Open status not refreshed,31,0,Pass,Enterprise desk
+duplicate_candidate,REQ038,Duplicate candidate identifier,31,2,Watch,Enterprise desk
+location_mismatch,REQ038,Location or work structure mismatch,31,1,Pass,Enterprise desk
+skill_taxonomy_gap,REQ038,Skill taxonomy not standardized,31,1,Pass,Enterprise desk
+stage_backfill,REQ038,Late stage history backfill,31,1,Pass,Enterprise desk
+missing_pay_rate,REQ039,Missing pay or bill rate,48,8,Fail,North desk
+stale_status,REQ039,Open status not refreshed,48,0,Pass,North desk
+duplicate_candidate,REQ039,Duplicate candidate identifier,48,3,Watch,North desk
+location_mismatch,REQ039,Location or work structure mismatch,48,3,Watch,North desk
+skill_taxonomy_gap,REQ039,Skill taxonomy not standardized,48,5,Fail,North desk
+stage_backfill,REQ039,Late stage history backfill,48,2,Watch,North desk
+missing_pay_rate,REQ040,Missing pay or bill rate,29,2,Watch,Central desk
+stale_status,REQ040,Open status not refreshed,29,1,Pass,Central desk
+duplicate_candidate,REQ040,Duplicate candidate identifier,29,2,Watch,Central desk
+location_mismatch,REQ040,Location or work structure mismatch,29,1,Pass,Central desk
+skill_taxonomy_gap,REQ040,Skill taxonomy not standardized,29,3,Watch,Central desk
+stage_backfill,REQ040,Late stage history backfill,29,1,Pass,Central desk
+missing_pay_rate,REQ041,Missing pay or bill rate,27,1,Pass,Specialty desk
+stale_status,REQ041,Open status not refreshed,27,1,Pass,Specialty desk
+duplicate_candidate,REQ041,Duplicate candidate identifier,27,1,Pass,Specialty desk
+location_mismatch,REQ041,Location or work structure mismatch,27,3,Watch,Specialty desk
+skill_taxonomy_gap,REQ041,Skill taxonomy not standardized,27,6,Fail,Specialty desk
+stage_backfill,REQ041,Late stage history backfill,27,2,Watch,Specialty desk
+missing_pay_rate,REQ042,Missing pay or bill rate,32,3,Watch,Enterprise desk
+stale_status,REQ042,Open status not refreshed,32,0,Pass,Enterprise desk
+duplicate_candidate,REQ042,Duplicate candidate identifier,32,2,Watch,Enterprise desk
+location_mismatch,REQ042,Location or work structure mismatch,32,3,Watch,Enterprise desk
+skill_taxonomy_gap,REQ042,Skill taxonomy not standardized,32,6,Fail,Enterprise desk
+stage_backfill,REQ042,Late stage history backfill,32,0,Pass,Enterprise desk

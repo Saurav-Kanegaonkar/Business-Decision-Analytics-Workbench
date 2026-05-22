@@ -1,0 +1,5 @@
+brief_section,message
+Situation,"Open analytical and technical roles have enough funnel activity to rank, but the riskiest roles combine aging, onsite constraints, and source-data issues."
+Decision needed,"Decide whether to clean records, reset sourcing, or calibrate with the client before increasing recruiter effort."
+Recommended first move,Start with REQ018 in Industrial manufacturer: clean source data before promising a new shortlist.
+Risk if ignored,"Leadership may overreact to volume gaps while the root issue is conversion quality, stale stage data, or delayed client feedback."

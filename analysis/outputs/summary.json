@@ -1,0 +1,30 @@
+{
+  "roles": 42,
+  "pipeline_events": 1646,
+  "weekly_rows": 336,
+  "critical_roles": 31,
+  "avg_readiness": 36.4,
+  "avg_fill_risk": 70.3,
+  "quality_failures": 30,
+  "top_role": {
+    "role_id": "REQ018",
+    "client_segment": "Industrial manufacturer",
+    "role_family": "BI Analyst",
+    "city": "Cincinnati",
+    "work_structure": "Onsite",
+    "priority": "Critical",
+    "open_days": 75,
+    "submit_rate": 42.9,
+    "interview_rate": 22.2,
+    "offer_rate": 0.0,
+    "placement_readiness_score": 34.8,
+    "fill_risk_score": 89.6,
+    "data_quality_score": 55.8,
+    "expected_shortlist_days": 18,
+    "placements": 0,
+    "estimated_weekly_margin": 810.0,
+    "recommendation": "Clean source data before promising a new shortlist",
+    "recruiter_owner": "Enterprise desk",
+    "priority_score": 110.0
+  }
+}
